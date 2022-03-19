@@ -1,6 +1,0 @@
-name: RemoteControl
-version: '${project.version}'
-main: io.gamemerald.remotecontrol.RemoteControl
-commands:
-  connecturi:
-    description: Reconnects to URI
