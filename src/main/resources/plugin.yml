@@ -1,0 +1,4 @@
+name: RemoteControl
+version: '${project.version}'
+main: io.gamemerald.remotecontrol.RemoteControl
+commands:
